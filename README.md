@@ -1,6 +1,6 @@
-# Grok：马斯克Grok4 国内使用指南~ 【9月最新更新】
+# Grok：马斯克Grok4 国内使用指南~ 【10月最新更新】
 
-> 更新时间：**2025/09/29**             
+> 更新时间：**2025/10/01**             
 
 国内能轻松使用的 [**Grok4 中文版**](https://ai.lanjingai.org) ，**无需翻墙**，**支持 Grok-4 及中文版功能**   
 本指南提供全面的 **Grok4 国内使用指南**，包括国内可用的 [**Grok4 网页版**](https://ai.lanjingai.org)、[**Grok4 国内入口**](https://xsimplechat.com)、[**Grok 官网平替**](https://ai.lanjingai.org)和详细使用教程，帮助您快速使用上 grok~
